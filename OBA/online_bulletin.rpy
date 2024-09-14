@@ -98,9 +98,7 @@ screen show_bulletin:
             action [SetVariable("bullet_screen",False),Hide("show_bulletin")]
 
 ## BULL TYPE - NEWSLETTER_LINK ## - A SCREEN THAT GETS MULTIPLE IMAGES AND TEXT TO SHOW AN DESCRIBE SOMETHING
-default selected_nl = None
-default nl_screen = False
-default nl_delay = False
+
 screen show_newsletter:
     zorder 100
     modal True

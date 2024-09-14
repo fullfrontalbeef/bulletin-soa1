@@ -440,10 +440,3 @@ screen bulletin_board:
 
 
 
-label quit:
-    if persistent.current_news != None:
-        $ fetch_rpy(persistent.current_news["bullet_file"])
-        $ delete_file()
-    $ persistent.news = None
-    $ persistent.current_news = None
-    $ cleanup_temp_files()

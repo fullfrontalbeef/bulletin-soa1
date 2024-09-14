@@ -2,31 +2,24 @@
     "main_bulletin": [
         {
             "id": 0,
-            "bull_type": "screen_link",
-            "img": "https://tehsas.github.io/Online-Bulletin-Example/OBA/example_0.jpg",
+            "bull_type": "web_link",
+            "img": "https://fullfrontalbeef.github.io/bulletin-soa1//OBA/Bull-SoA01-update11.jpg",
             "active": "True",
-            "link": ""
+            "link": "https://store.steampowered.com/news/app/2849690"
         },
         {
             "id": 1,
             "bull_type": "web_link",
-            "img": "https://tehsas.github.io/Online-Bulletin-Example/OBA/example_1.jpg",
+            "img": "https://fullfrontalbeef.github.io/bulletin-soa1//OBA/Bull-SoA01-rnd.jpg",
             "active": "True",
-            "link": "https://www.patreon.com/Sauce_is_Here"
-        },
-        {
-            "id": 2,
-            "bull_type": "newsletter_link",
-            "img": "https://tehsas.github.io/Online-Bulletin-Example/OBA/example_3.jpg",
-            "active": "True",
-            "link": ""
+            "link": "https://store.steampowered.com/app/3106830/Research_And_Development_1/"
         },
         {
             "id": 3,
-            "bull_type": "list_link",
-            "img": "https://tehsas.github.io/Online-Bulletin-Example/OBA/example_4.jpg",
+            "bull_type": "web_link",
+            "img": "https://fullfrontalbeef.github.io/bulletin-soa1//OBA/Bull-SoA01-ffb.jpg",
             "active": "True",
-            "link": ""
+            "link": "https://www.fullfrontalbeef.com"
         }
     ],
     "branches": [

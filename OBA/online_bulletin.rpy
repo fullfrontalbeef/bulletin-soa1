@@ -99,10 +99,10 @@ screen show_bulletin:
 
 
 ## BULLETIN BOARD ## - SHOWS THE BULLETIN
-default selected_bullet = None
-default selected_bullet2 = None
-default bullet_screen = False
-default bullet_delay = False
+#default selected_bullet = None
+#default selected_bullet2 = None
+#default bullet_screen = False
+#default bullet_delay = False
 screen bulletin_board:
     ## THIS COMPILES ALL THE BULLETINS ##
     $ active_bulletins = []
